@@ -1,0 +1,80 @@
+{
+    "products": [
+      {
+        "name": "Google Pixel 8",
+        "description": "The Google Pixel phone is a flagship Android device renowned for its exceptional camera capabilities, seamless integration with Google services, and clean user interface. With its sleek design, timely software updates, and innovative features like Google Assistant, Pixel phones offer a premium smartphone experience tailored for both productivity and enjoyment.",
+        "brandtype": "Google",
+        "imageName": "./images/googlepixel8.jpg"
+      },
+      {
+        "name": "Google Pixel Watch",
+        "description": "The Pixel Watch is Google's flagship smartwatch offering, designed to seamlessly integrate with Android devices and Google services. Boasting a sleek and stylish design, the Pixel Watch offers a wide range of features including fitness tracking, notifications, voice commands with Google Assistant, and customizable watch faces. With its emphasis on convenience and functionality, the Pixel Watch is the perfect companion for those seeking a blend of style and technology on their wrist.",
+        "brandtype": "Google",
+        "imageName": "./images/googlepixelwatch2.jpg"
+      },
+      {
+        "name": "Google Pixel Tablet",
+        "description": "The Google Pixel Tablet offers a premium Android tablet experience, featuring a sleek design, high-resolution display, and seamless integration with Google's ecosystem of services. With powerful hardware and a smooth user interface, the Pixel Tablet is ideal for productivity tasks, entertainment, and staying connected on the go. Whether you're browsing the web, streaming content, or getting work done, the Pixel Tablet delivers a versatile and immersive experience tailored to your needs.",
+        "brandtype": "Google",
+        "imageName": "./images/googlepixeltablet.jpg"
+      },
+      {
+        "name": "Google Home",
+        "description": "The Google Pixel Home is a smart home device designed to streamline your daily life. With its sleek and compact design, it seamlessly integrates with your home environment, allowing you to control smart devices, manage schedules, and access information with just your voice. Powered by Google Assistant, the Pixel Home offers personalized assistance, entertainment options, and the ability to connect with other Google Home devices for a cohesive smart home experience. Whether you're adjusting the thermostat, setting reminders, or enjoying your favorite music, the Pixel Home brings convenience and connectivity to every corner of your home.",
+        "brandtype": "Google",
+        "imageName": "./images/googlepixelhome.jpg"
+      },
+
+      {
+        "name": "Apple Iphone",
+        "description": "The Apple iPhone is a renowned smartphone celebrated for its sleek design, cutting-edge technology, and seamless integration with the iOS ecosystem. With its powerful performance, high-quality camera, and innovative features such as Face ID and Siri, the iPhone offers a premium mobile experience for users worldwide.",
+        "brandtype": "Apple",
+        "imageName": "./images/iphone.jpg"
+      },
+      {
+        "name": "Apple Macbook",
+        "description": "The MacBook is a line of premium laptops developed by Apple Inc., known for their sleek design, powerful performance, and seamless integration with macOS. Featuring high-resolution displays, innovative features such as the Touch Bar, and long-lasting battery life, the MacBook is favored by professionals, students, and creatives alike for its reliability and productivity-enhancing capabilities.",
+        "brandtype": "Apple",
+        "imageName": "./images/macbook.jpg"
+      },
+      {
+        "name": "Apple Ipad",
+        "description": "The iPad is a versatile and powerful tablet computer developed by Apple Inc., renowned for its sleek design, high-resolution display, and intuitive user interface. Offering a wide range of productivity, creativity, and entertainment features, the iPad serves as a portable solution for tasks such as browsing the web, watching videos, creating artwork, and productivity tasks. With support for the Apple Pencil and a vast selection of apps from the App Store, the iPad caters to a diverse range of users, from students and professionals to artists and gamers, making it a popular choice for both work and leisure.",
+        "brandtype": "Apple",
+        "imageName": "./images/ipad.jpg"
+      },
+      {
+        "name": "Apple Smartwatch",
+        "description": "The Apple Watch is a popular wearable device created by Apple Inc., designed to complement and enhance the user's lifestyle. Offering a blend of fitness tracking, communication, and productivity features, the Apple Watch seamlessly integrates with the user's iPhone, providing notifications, health monitoring, and access to a wide range of apps directly from the wrist. With its stylish design, customizable watch faces, and advanced technologies such as heart rate monitoring and ECG capabilities, the Apple Watch has become an essential accessory for staying connected and active throughout the day.",
+        "brandtype": "Apple",
+        "imageName": "./images/applewatch.jpg"
+      },
+      {
+        "name": "Microsoft Surface Pro",
+        "description": "The Surface Pro is a premium 2-in-1 device created by Microsoft, combining the portability of a tablet with the power and versatility of a laptop. Featuring a detachable keyboard and a responsive touchscreen display, the Surface Pro offers users the flexibility to switch between tablet and laptop modes seamlessly. With its sleek design, high-resolution display, and powerful hardware, the Surface Pro is ideal for professionals, creatives, and students alike, enabling productivity on the go. Additionally, the Surface Pro runs on Windows 10, providing access to a wide range of desktop applications and productivity tools, making it a popular choice for those seeking a versatile computing solution.",
+        "brandtype": "Microsoft",
+        "imageName": "./images/surfacepro.jpg"
+      },
+      {
+        "name": "Microsoft Surface Laptop",
+        "description": "The Surface Laptop is a premium notebook computer designed by Microsoft, known for its elegant design, high-resolution display, and powerful performance. Offering a sleek and lightweight form factor, the Surface Laptop is ideal for professionals, students, and anyone seeking a blend of style and functionality. With features such as a responsive touchscreen, comfortable keyboard, and long-lasting battery life, the Surface Laptop provides a seamless computing experience for productivity, creativity, and entertainment. Running on Windows 10, users can access a wide range of applications and services from the Microsoft ecosystem, making the Surface Laptop a versatile and reliable choice for everyday use.",
+        "brandtype": "Microsoft",
+        "imageName": "./images/surfacelaptop.jpg"
+      },
+      {
+        "name": "Microsoft Surface Book",
+        "description": "The Surface Book is a premium 2-in-1 laptop developed by Microsoft, renowned for its innovative design, powerful performance, and versatility. Featuring a detachable touchscreen display that can be used as a tablet, the Surface Book offers the flexibility to switch between laptop and tablet modes effortlessly. With its sleek and durable construction, high-resolution display, and responsive keyboard, the Surface Book is ideal for professionals, creatives, and students seeking a device that can adapt to their dynamic needs. Powered by Windows 10, the Surface Book provides access to a wide range of productivity tools, applications, and services, making it a popular choice for those who require both mobility and performance in their computing experience.",
+        "brandtype": "Microsoft",
+        "imageName": "./images/surfacebook.jpg"
+      },
+      {
+        "name": "Microsoft Surface Duo",
+        "description": "The Surface Duo is a unique dual-screen mobile device developed by Microsoft, offering a new approach to productivity and multitasking on the go. With two separate touchscreens connected by a 360-degree hinge, the Surface Duo enables users to run multiple apps side by side, allowing for enhanced productivity and seamless multitasking. Featuring a slim and lightweight design, the Surface Duo is highly portable and versatile, making it suitable for a wide range of tasks such as note-taking, web browsing, and communication. Powered by Android, the Surface Duo provides access to a vast ecosystem of apps and services from the Google Play Store, ensuring compatibility and familiarity for users transitioning from other Android devices.",
+        "brandtype": "Microsoft",
+        "imageName": "./images/surfaceduo.jpg"
+      }
+
+
+    ]
+  }
+  
